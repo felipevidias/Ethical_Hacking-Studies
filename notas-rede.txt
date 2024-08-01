@@ -1,0 +1,6 @@
+   Firewall que é uma das principais ferramentas utilizadas atualmente para garantir a segurança de uma rede. Ele fica localizado na fronteira entre duas redes, como entre uma rede privada e a Internet, inspecionando todos os pacotes que passam. Sendo assim, evita que pacotes indesejados tenham acesso à rede privada;
+    Um sistema de WAF atua. Resumidamente, age como um proxy reverso protegendo os servidores;
+    Os sistemas de IPS e IDS. No caso, o IDS analisa o tráfego de rede detectando ataques conhecidos e IPS trabalha impedindo que pacotes suspeitos sejam entregues, interrompendo o ataque;
+    Uma Zona Desmilitarizada (DMZ) funciona. Ela faz um isolamento físico entre duas redes, garantindo assim que a internet acesse apenas servidores isolados em uma DMZ.
+
+
